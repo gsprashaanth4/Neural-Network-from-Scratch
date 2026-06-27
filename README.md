@@ -8,4 +8,4 @@ The Demo is performed on the MNIST dataset from [Kaggle](https://www.kaggle.com/
 
 ### Training
 
-![Training Plot]()
+![Training Plot](https://github.com/gsprashaanth4/Neural-Network-from-Scratch/blob/main/media/NN_Adam_MNIST.gif)
