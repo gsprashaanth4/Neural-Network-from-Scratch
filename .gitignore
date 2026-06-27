@@ -1,0 +1,9 @@
+venv/
+.vscode/
+__pycache__/
+Data/sub.csv
+Data/test.csv
+
+buffer.py
+NN_.py
+test.py
