@@ -4,7 +4,7 @@ from PyQt6.QtWidgets import QApplication
 from PyQt6.QtCore import QTimer
 from WhatevPlot import WhatevPlot as wp
 from NNFS import NNFS
-import sys
+import sys, time
 
 def get_random_batch_from_csv(df, batch_size=128, num_classes=10):
     batch_df = df.sample(n=batch_size)
