@@ -15,4 +15,4 @@ This project is an educational implementation, focussing on building a neural ne
 
 The Demo is performed on the MNIST dataset from [Kaggle](https://www.kaggle.com/competitions/digit-recognizer)
 
-![Training Plot](https://drive.google.com/file/d/14uC2zs3KhRysCOGwcfHITRJ3tAWktByT/view?usp=sharing)
+![Training Plot](https://github.com/gsprashaanth4/Neural-Network-from-Scratch/blob/main/media/NNFS.gif)
