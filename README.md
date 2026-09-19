@@ -1,11 +1,18 @@
-# Neural Network implementation from Scratch
+## Neural Network implementation from Scratch using Python and NumPy
 
-This project focusses at creating a pedagogically better implementation of a neural network, focusing on the dimensionality and the batch size of the layers of the neural network. The neural network was written from scratch, also serving as a project to learn the first principles of neural networks.
+This project is an educational implementation, focussing on building a neural network framework from first principles. the program files include implementations of:
 
-## Demo
-
-The Demo is performed on the MNIST dataset from [Kaggle](https://www.kaggle.com/competitions/digit-recognizer)
+- batched data management
+- modular Dense NN construction
+- non-linear activation functions - ReLU, softmax
+- cross-categorical entropy loss
+- forward pass
+- dynamic graph building
+- back propagation
+- Adam optimizer
 
 ### Training
 
-![Training Plot](https://github.com/gsprashaanth4/Neural-Network-from-Scratch/blob/main/media/NN_Adam_MNIST.gif)
+The Demo is performed on the MNIST dataset from [Kaggle](https://www.kaggle.com/competitions/digit-recognizer)
+
+![Training Plot](https://drive.google.com/file/d/14uC2zs3KhRysCOGwcfHITRJ3tAWktByT/view?usp=sharing)
